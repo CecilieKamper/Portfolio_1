@@ -54,10 +54,10 @@ nav ul {
 
 .cv_billede {
     position: relative;
-    max-width: 60%;
+    max-width: 80%;
     border-radius: 50%;
     position: relative;
-    left: 15%;
+    left: 7%;
 }
 
 .om_mit_navn {
@@ -352,6 +352,14 @@ audio {
 
 img {
     max-width: 90%;
+}
+
+.medier {
+    max-width: 70%;
+    border-radius: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
 }
 
 .dropdown {
