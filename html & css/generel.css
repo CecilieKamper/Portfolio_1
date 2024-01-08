@@ -198,7 +198,7 @@ p {
 }
 
 .tema2-5 {
-    max-width: 100%;
+    max-width: 120%;
     border-radius: 50%;
     opacity: 40%;
     filter: grayscale(90%);
@@ -217,7 +217,7 @@ figcaption {
     line-height: 1;
     margin-bottom: 10%;
     position: relative;
-    left: 10%;
+    left: 15%;
 }
 
 .tema4_tekst {
