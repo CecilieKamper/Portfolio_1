@@ -10,6 +10,13 @@ body {
     /* background-color: rgb(176, 187, 174) */
 }
 
+.logo {
+    max-width: 7%;
+    position: relative;
+    left: -56%;
+    opacity: 65%;
+}
+
 h1,
 h2,
 h3,
@@ -567,5 +574,10 @@ img {
 
     .link {
         left: 7%;
+    }
+
+    .logo {
+        max-width: 8%;
+        left: -47%;
     }
 }
